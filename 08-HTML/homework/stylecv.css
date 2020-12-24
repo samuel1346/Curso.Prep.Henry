@@ -1,0 +1,25 @@
+img{height: 200px;width: 200px}
+h3{color:blue;}
+h1{color:blue;}
+div.imgClass{height: auto;
+          display:flex;
+          justify-content: center;
+          align-items: center;}
+div.hClass{height: auto;
+          display:flex;
+          justify-content: center;
+          align-items:center;}
+div.divClass1{height: auto;
+          display:flex;
+          justify-content: center;
+          align-items: center;}
+div.divClass2{height: auto;
+          display:flex;
+          justify-content: center;
+          align-items: center;}
+body{border-style: solid;
+     border-color:black;
+     width: 900px;
+     height: 1500px;
+     position: relative;
+     margin:auto;}
